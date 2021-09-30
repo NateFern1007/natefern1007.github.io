@@ -96,14 +96,14 @@ experiences:
         -	Served as mentor, role model, and resource for children in the program and worked to inspire them to become good members of their communities.
         -	Built excellent communication, teamwork, and problem-solving skills.
 
-# projects:
-#     title: Projects
-#     intro: >
-#       See the various projects that I am working on. 
-#     assignments:
-#       - title: Velocity
-#         link: "#hook"
-#         tagline: "A responsive website template designed to help startups promote, market and sell their products."
+projects:
+    title: Projects
+    intro: >
+      See the various projects that I am working on. 
+    assignments:
+      - title: Stock Ticker WIP
+        link: "https://github.com/NateFern1007/stock-ticker"
+        tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
 #       - title: DevStudio
 #         link: "#"
@@ -161,4 +161,4 @@ experiences:
 #         # level: 95%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Designed with <i class="fas fa-heart"></i> by <a href="https://github.com/sharu725/online-cv" target="_blank" rel="nofollow">Jekyll online-cv</a>
