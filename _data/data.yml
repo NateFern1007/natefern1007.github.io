@@ -47,6 +47,7 @@ sidebar:
     #   - item: Cooking
     #     link:
 
+
 career-profile:
     title: Career Profile
     summary: |
@@ -59,12 +60,7 @@ education:
     - degree: BA Business Adminstration
       university: University of Puget Sound
       time: 2018 - 2022
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+      details: | 
           - Bullet point
           - Bullet point
 experiences:
@@ -101,9 +97,13 @@ projects:
     intro: >
       See the various projects that I am working on. 
     assignments:
-      - title: Stock Ticker WIP
+      - title: Investment Tracker
         link: "https://github.com/NateFern1007/stock-ticker"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "A small program that I wrote to help me track my personal investment portfolio."
+
+      - title: An Introductory Framework to Motivation and Organizational Behavior and Its effects on Employees
+        link: "./pub/projects/MotivationRFernandez_Nathan/index.html"
+        tagline: "Final Paper for BUS-305 Principals of Management"
 
 #       - title: DevStudio
 #         link: "#"
@@ -159,6 +159,16 @@ projects:
 
 #       - name: Technical support help desk for friends and family. 
 #         # level: 95%
+
+volunteering:
+    - role: Future Leader CSCMP Edge 2021 Conference
+      time: September 17th - September 22nd 2021
+      company: CSCMP
+      details: |  
+
+certifications:
+  title: Test1
+  
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="https://github.com/sharu725/online-cv" target="_blank" rel="nofollow">Jekyll online-cv</a>
